@@ -1,0 +1,35 @@
+[Flowchart of Simple Banking System]
+
+Start
+  |
+  v
+Display Menu:
+1. Deposit
+2. Withdraw
+3. Check Balance
+4. Exit
+  |
+  v
+User selects option
+  |
+  +--> Deposit:
+  |       Enter amount
+  |       Update balance
+  |       Show new balance
+  |       Back to Menu
+  |
+  +--> Withdraw:
+  |       Enter amount
+  |       If balance >= amount
+  |           Deduct amount
+  |           Show new balance
+  |       Else
+  |           Show "Insufficient balance"
+  |       Back to Menu
+  |
+  +--> Check Balance:
+  |       Display current balance
+  |       Back to Menu
+  |
+  +--> Exit:
+          End Program

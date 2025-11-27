@@ -1,0 +1,15 @@
+Project: Simple Banking System
+Language: Java
+Purpose: To simulate basic banking operations like deposit, withdrawal, and balance checking.
+
+Key Features:
+1. User can deposit money.
+2. User can withdraw money if balance is sufficient.
+3. User can check current balance.
+4. Simple text-based console interface.
+5. Validations for incorrect inputs and insufficient balance.
+
+Learning Outcome:
+- Understanding basic banking logic in programming.
+- Practice with conditional statements, loops, and user input handling.
+- Introduction to console-based menu systems in Java.
