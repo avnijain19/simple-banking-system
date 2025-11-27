@@ -1,0 +1,24 @@
+Test Case 1: Deposit Money
+Input: Deposit 5000
+Expected Output: Balance updated successfully. New balance: 5000
+Status: Pass/Fail
+
+Test Case 2: Withdraw Money (Sufficient Balance)
+Input: Withdraw 2000
+Expected Output: Withdrawal successful. New balance: 3000
+Status: Pass/Fail
+
+Test Case 3: Withdraw Money (Insufficient Balance)
+Input: Withdraw 4000
+Expected Output: Insufficient balance. Transaction failed.
+Status: Pass/Fail
+
+Test Case 4: Check Balance
+Input: Check balance
+Expected Output: Current balance: 3000
+Status: Pass/Fail
+
+Test Case 5: Invalid Operation
+Input: Transfer 1000
+Expected Output: Invalid operation. Please try again.
+Status: Pass/Fail

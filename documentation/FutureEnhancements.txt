@@ -1,0 +1,9 @@
+
+1. Add user authentication with username and password.
+2. Implement multiple accounts with unique account numbers.
+3. Introduce transaction history for deposit and withdrawal.
+4. Add interest calculation for savings accounts.
+5. Provide fund transfer between accounts.
+6. Improve UI by creating a graphical interface instead of console-based.
+7. Implement database storage for persistent account data.
+8. Integrate security measures for sensitive information.
